@@ -1,0 +1,3 @@
+Calificación: 2.2/3
+No debe usar punteros (*)
+Debe documentar todas las funciones
